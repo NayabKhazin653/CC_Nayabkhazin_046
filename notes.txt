@@ -1,1 +1,2 @@
 "My first note for Lab 2" 
+"Adding a second important thought." 
