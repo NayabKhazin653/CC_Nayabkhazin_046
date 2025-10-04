@@ -1,0 +1,3 @@
+"User 1 (Your Name): I love all the Git labs!" 
+"User 2 (Collaborator): I prefer tabs." 
+"User 2: I am the collaborator." 
