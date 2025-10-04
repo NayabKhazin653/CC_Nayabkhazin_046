@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 "My first note for Lab 2" 
 "Adding a second important thought." 
+=======
+This is the first note.
+Adding a second line.
+Staging tests passed! Ready for production release.
+pr creation
+
+>>>>>>> 28a33e8e572df08036d2b08d5e9a450c89ad36a7
