@@ -1,3 +1,11 @@
 "User 1 (Your Name): I love all the Git labs!" 
 "User 2 (Collaborator): I prefer tabs." 
 "User 2: I am the collaborator." 
+"My first note for Lab 2" 
+"Adding a second important thought." 
+This is the first note.
+Adding a second line.
+Staging tests passed! Ready for production release.
+pr creation
+
+
